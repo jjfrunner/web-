@@ -1,0 +1,38 @@
+body {
+  background-image: url('../Images/background.jpg');
+}
+
+.me {
+  text-align: center;
+  color: black;
+}
+
+.about-me {
+  font-size 16px;
+  color: black;
+}
+
+.profile {
+
+display: block;
+margin 0 auto ;
+height: 300px;
+width: 300px;
+paddling-top: 20px;
+border-width: 2px;
+border-color: black;
+border-radius: 100px;
+}
+
+.btn{
+  background-color: red;
+  color: #ffffff;
+  border-radius: 10px;
+  height: 50px;
+  width: 200px;
+  font-size: 18px;
+}
+
+.btn:hover {
+
+}
